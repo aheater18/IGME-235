@@ -1,14 +1,10 @@
 <h1><a href="index.html">Artris</a></h1>
-        <div id="navbar">
-            <h3><a href="index.html">Home</a></h3>
-            <h3><a href="proposal.html">Proposal</a></h3>
-            <h3><a href="documentation.html">Documentation</a></h3>
-            <h3><a href="project.html">Play!</a></h3>
-        </div>
         <p>
             The game of Tetris, but the puzzle is your own creativity.
         </p>
+        
         <h2>Categories</h2>
+        
         <ul>
             <li>Genres: Puzzle, Sandbox, Creative</li>
             <li>Platform: Desktop Only</li>
@@ -18,6 +14,7 @@
         </ul>
 
         <h2>Theme</h2>
+        
         <p>
             The theme of this game is player-driven creativity. Given a familiar screen, infinite time, and flexible and
             easy-to-use tools, what kinds of masterpieces could a player think to create?
