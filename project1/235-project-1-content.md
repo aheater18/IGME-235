@@ -37,8 +37,8 @@
 <h2>Screenshots</h2>
 
 <div id="screenshots">
-    <img id="title" class="screenshot" src="media/title-screen.png" alt="title-screen">
-    <img id="gameplay" class="screenshot" src="media/screenshot1.png" alt="screenshot-1">
+    <img id="title" class="screenshot" src="title-screen.png" alt="title-screen">
+    <img id="gameplay" class="screenshot" src="screenshot1.png" alt="screenshot-1">
 </div>
 
 <h2>Other Comments</h2>
